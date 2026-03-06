@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">슈고알리미</string>
+    <string name="spec_text">동작 시간: 10:00~22:59 / 16:00, 21:20, 46:00, 50:20에 진동</string>
+    <string name="ready_with_next">상태: 준비됨 / 다음 알람: %1$s</string>
+    <string name="ready_but_battery_warning_with_next">상태: 준비됨(절전 예외 권장) / 다음 알람: %1$s</string>
+    <string name="need_exact_alarm_permission_with_next">상태: 정확 알람 권한 필요 / 계산된 다음 시각: %1$s</string>
+    <string name="stopped">상태: 정지됨</string>
+    <string name="start_alarm">스케줄 시작</string>
+    <string name="stop_alarm">스케줄 중지</string>
+    <string name="test_vibration_now">지금 진동 테스트</string>
+    <string name="test_watch_notification_now">워치 테스트 알림 보내기</string>
+    <string name="one_time_delay_hint">테스트 일회성 알람 시간 (HH:mm)</string>
+    <string name="add_one_time_alarm">일회성 알람 추가</string>
+    <string name="one_time_input_invalid">시간 형식 HH:mm 으로 입력해 주세요. 예: 14:30</string>
+    <string name="one_time_added">일회성 알람 추가됨: %1$s</string>
+    <string name="open_exact_alarm_setting">정확 알람 권한 설정 열기</string>
+    <string name="open_battery_optimization_setting">배터리 최적화 예외 설정 열기</string>
+    <string name="notification_title_regular">기본 스케줄 알람</string>
+    <string name="notification_title_one_time">일회성 테스트 알람</string>
+    <string name="notification_text">폰과 연결된 워치에도 알림 진동이 전달될 수 있습니다.</string>
+    <string name="notification_text_start_time">슈고 시작시간입니다.</string>
+    <string name="notification_text_reward_time">보상수령시간입니다.</string>
+    <string name="notification_title_watch_test">워치 테스트 알림</string>
+    <string name="notification_text_watch_test">워치가 진동하면 미러링 설정이 정상입니다.</string>
+    <string name="watch_test_sent">워치 테스트 알림 전송됨</string>
+</resources>
